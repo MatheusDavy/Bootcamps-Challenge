@@ -1,2 +1,2 @@
-# dio-challenge
-Desafios feitos em bootcamps 
+# Dio-challenge (Bootcamps)
+Desafios feitos em bootcamps na Dio
